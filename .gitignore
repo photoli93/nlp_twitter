@@ -1,0 +1,24 @@
+# macOS trash
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnement
+env/
+venv/
+.venv/
+
+# Data
+data/
+
+# Perso
+bart_example.ipynb
+README.md
+twitter.jpg
