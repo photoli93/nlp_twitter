@@ -22,6 +22,7 @@ data/
 mlruns/
 
 # Perso
+models/
 bart_example.ipynb
 README.md
 twitter.jpg
