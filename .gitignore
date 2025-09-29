@@ -18,6 +18,9 @@ venv/
 # Data
 data/
 
+# MLFlow
+mlruns/
+
 # Perso
 bart_example.ipynb
 README.md
